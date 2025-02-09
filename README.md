@@ -12,3 +12,8 @@ para crear el repositorio
     -Descripcion del proyecto
     -Como descargar el proyecto
     -Ayudas/configuraciones para poder usar el proyecto
+
+-En este ejericicio estamos editando el archivo README.md, dando clic en el icono de lapiz en el repositorio
+
+Para ejecutar el sistema, debes poner:
+```npm install react```
